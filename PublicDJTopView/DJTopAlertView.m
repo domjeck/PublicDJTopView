@@ -19,7 +19,7 @@
 @interface DJTopAlertView()
 
 @property (nonatomic, strong) UILabel *titleLabel;
-//最左侧imageview
+//最左侧imageview test,test,
 @property (nonatomic, strong) UIImageView *leftImageView;
 @property (nonatomic, strong) UIImageView *centerImageView;
 
